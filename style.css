@@ -1,0 +1,29 @@
+body
+{
+  position: absolute;
+}
+
+table
+{
+  background-color: #C39797;
+  font-size: 20px; 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.animation:hover
+{
+  background-color: #ffd8ef;
+}
+.btn-edit, .btn-delete
+{
+  background-color: #faf7dc;
+}
+.btn-edit:hover
+{
+  background-color: #1f38d0;
+  color: #ffffff;
+}
+.btn-delete:hover
+{
+  background-color: #f7104a;
+  color: #ffffff;
+}
